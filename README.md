@@ -4,10 +4,8 @@
 3. Open the command line of your choice and cd to the root directory of this repo on your machine  
 4. `npm install` - Installs packages
 5. `npm install -g gulp` - Installs gulp globally. [Why globally?](http://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally)
-5. `gulp` - Builds the project and opens your browser. Check [here if you have issues](https://github.com/coryhouse/react-flux-starter-kit#having-issues-try-this).
-6. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
+5. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
 
-You're now all set to [follow along with the course](http://www.pluralsight.com/author/cory-house)! 
 
 ## Having Issues? Try this:
 1. If you have an .eslintrc file in your user directory, delete it.
